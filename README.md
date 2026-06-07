@@ -68,25 +68,31 @@ flutter pub get
 ### 1. Halaman Utama (Home Screen)
 
 Menampilkan daftar catatan keseluruhan beserta tombol kategori dan navigasi atas.
-<img width="1600" height="907" alt="image" src="https://github.com/user-attachments/assets/a779f83c-65af-4a51-92c7-8bb7880d79de" />
+<img width="1919" height="1089" alt="image" src="https://github.com/user-attachments/assets/59da611c-4fb0-4852-ab91-a3f1f36fee45" />
+
 
 
 ### 2. Fitur Pencarian dan Kategori
 
 Menampilkan bagaimana catatan disaring saat pengguna mengetik di kolom pencarian atau memilih kategori tertentu (misalnya: Hutang).
-<img width="1919" height="1088" alt="image" src="https://github.com/user-attachments/assets/a982f343-2277-4290-a2d3-3330eddf04e8" />
+<img width="1919" height="1085" alt="image" src="https://github.com/user-attachments/assets/f2e078c6-c53f-447a-8250-8f762a11db71" />
 
 
-### 3. Halaman Form Tambah Catatan
+
+### 3. Halaman Form Tambah/Edit catatan
 
 Menampilkan antarmuka pengguna saat menambahkan catatan baru, memilih kategori, dan menandai favorit.
-<img width="1919" height="1086" alt="image" src="https://github.com/user-attachments/assets/534471c5-6f70-40a6-9b99-04cdce6b2279" />
+<img width="1919" height="1085" alt="image" src="https://github.com/user-attachments/assets/4dd15116-e938-416e-be1e-764b8304f442" />
+<img width="1919" height="1085" alt="image" src="https://github.com/user-attachments/assets/04ee1c25-0a44-47c8-907a-b05b9ef4202b" />
+
 
 
 ### 4. Mode Gelap (Dark Mode)
 
 Menampilkan antarmuka aplikasi saat preferensi tema diubah menjadi tampilan gelap (Dark Mode).
-<img width="1919" height="1087" alt="image" src="https://github.com/user-attachments/assets/6b4cd208-809c-46a8-a62c-2c79215c09b9" />
+<img width="1919" height="1085" alt="image" src="https://github.com/user-attachments/assets/86adb57a-bdd2-4593-a8f9-b4c8f33c43ee" />
+
 
 ### 5. Fitur Favorit
-<img width="1919" height="1086" alt="image" src="https://github.com/user-attachments/assets/b1517434-7da0-4734-8e87-96b72c02c35f" />
+<img width="1919" height="1082" alt="image" src="https://github.com/user-attachments/assets/d8fd9257-a7dc-41e5-97ff-cd540799a4fa" />
+
